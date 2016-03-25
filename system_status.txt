@@ -1,0 +1,17 @@
+Snapshot1:2016-03-26-01:00:52
+
+CPU [0.0, 100.0, 0.0, 0.0]
+
+MEMORY total 12358209536 bytes 
+available 10048962560 
+used 9260711936 
+
+HDD read cout 22862 
+read 1734927872 
+write 1450921984 
+hdd usage sdiskusage(total=813156409344, used=126041133056, free=645802430464, percent=15.5)
+
+NETWORK: {'vnet0': snetio(bytes_sent=416561, bytes_recv=300, packets_sent=8000, packets_recv=5, errin=0, errout=0, dropin=0, dropout=0), 'eth0': snetio(bytes_sent=27492860, bytes_recv=993660518, packets_sent=347847, packets_recv=784948, errin=0, errout=0, dropin=0, dropout=0), 'lo': snetio(bytes_sent=33163, bytes_recv=33163, packets_sent=1125, packets_recv=1125, errin=0, errout=0, dropin=0, dropout=0), 'virbr0-nic': snetio(bytes_sent=0, bytes_recv=0, packets_sent=0, packets_recv=0, errin=0, errout=0, dropin=0, dropout=0), 'virbr0': snetio(bytes_sent=717, bytes_recv=230, packets_sent=6, packets_recv=5, errin=0, errout=0, dropin=0, dropout=0)}
+
+USERS [suser(name='root', terminal='tty1', host='localhost', started=1458927360.0), suser(name='root', terminal='pts/0', host='localhost', started=1458935808.0)]
+

@@ -1,0 +1,40 @@
+
+Snapshot1:2016-03-26-00:59:23
+
+CPU
+25.0
+MEMORY
+{
+    "inactive": 590766080,
+    "buffers": 70291456,
+    "active": 2227634176,
+    "available": 10010312704,
+    "used": 3134787584,
+    "total": 12358209536,
+    "percent": 19.0,
+    "free": 9223421952,
+    "cached": 716599296
+}
+HDD
+{
+    "read_count": 22862,
+    "read_merged_count": 7422,
+    "read_bytes": 1734927872,
+    "write_count": 35295,
+    "busy_time": 190881,
+    "write_bytes": 1444442112,
+    "write_time": 365377,
+    "write_merged_count": 314694,
+    "read_time": 138995
+}
+NETWORK
+[
+    27929183,
+    993650763,
+    356848,
+    785661,
+    0,
+    0,
+    0,
+    0
+]
